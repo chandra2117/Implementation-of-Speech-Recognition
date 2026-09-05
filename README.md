@@ -1,8 +1,8 @@
 # Implementation of Speech Recognition
 
 
-#### NAME : ARCHANA T
-#### REGISTER NUMBER :212223240013
+#### NAME : CHANDRAPRIYADHARSHINI C
+#### REGISTER NUMBER :212223240019
 ## Aim:
  To implement the conversion of live speech to text.
 ## Algorithm:
